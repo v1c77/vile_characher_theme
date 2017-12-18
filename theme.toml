@@ -1,17 +1,17 @@
-name = "Tranquilpeak"
+name = "vile_characher_theme"
 license = "GNU General Public License v3.0"
-licenselink = "https://github.com/kakawait/hugo-tranquilpeak-theme/blob/master/LICENSE"
-description = "A gorgeous responsive theme for Hugo blog framework"
-homepage = "https://github.com/kakawait/hugo-tranquilpeak-theme"
+licenselink = "https://github.com/woailuoli993/vile_characher_theme/blob/master/LICENSE"
+description = "A Hogo theme fork from kakawait"
+homepage = "https://github.com/woailuoli993/vile_characher_theme"
 tags = ["blog", "minimal", "responsive", "personal", "customizable", "creative", "fontawesome", "highlight.js"]
 features = ["blog", "themes", "disqus", "minimal", "responsive", "font awesome", "highlight.js"]
 min_version = 0.20
 
 [author]
-  name = "Thibaud Leprêtre"
-  homepage = "https://github.com/kakawait"
+  name = "woailuoli993"
+  homepage = "https://github.com/woailuoli993"
 
 [original]
-  name = "Tranquilpeak"
-  homepage = "https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak"
-  repo = "https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak.git"
+  name = "vile_characher_theme"
+  homepage = "https://github.com/woailuoli993/vile_characher_theme"
+  repo = "https://github.com/woailuoli993/vile_characher_theme"
